@@ -1,0 +1,9 @@
+\usepackage{media9}
+...
+\includemedia[
+  width=0.6\linewidth,
+  height=0.45\linewidth,
+  activate=onclick,
+  addresource=video.mp4,
+  flashvars={source=video.mp4}
+]{}{VPlayer.swf}
